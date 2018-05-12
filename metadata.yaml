@@ -1,0 +1,31 @@
+_repo: Native-Races-and-the-War_14299
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Butler, Josephine Elizabeth Grey
+    alias: Butler, Josephine E.
+    birthdate: 1828
+    deathdate: 1906
+    gutenberg_agent_id: '5456'
+    url: http://www.gutenberg.org/2009/agents/5456
+    wikipedia: http://en.wikipedia.org/wiki/Josephine_Butler
+description: ''
+gutenberg_issued: '2004-12-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14299'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'South African War, 1899-1902 -- Causes'
+- !lcsh 'Transvaal (South Africa) -- Race relations'
+- !lcsh 'Transvaal (South Africa) -- History'
+- !lcc 'DT'
+- !lcsh 'Indigenous peoples -- Transvaal (South Africa)'
+title: Native Races and the War
+url: http://www.gutenberg.org/ebooks/14299
