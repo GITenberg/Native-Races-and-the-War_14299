@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5456
     wikipedia: http://en.wikipedia.org/wiki/Josephine_Butler
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14299#Native-Races-and-the-War
 gutenberg_issued: '2004-12-08'
 gutenberg_type: Text
 identifiers:
